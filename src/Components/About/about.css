@@ -1,0 +1,24 @@
+.about-contain {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  color: #AB929D;
+}
+img {
+  margin: 60px;
+}
+.info-flex {
+  margin: auto;
+  width: 1200px;
+  height: 500px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  font-size: 15pt;
+}
+.school-flex {
+  width: 500px;
+}
+.brand-flex {
+  width: 500px;
+}

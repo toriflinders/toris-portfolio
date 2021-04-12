@@ -1,0 +1,27 @@
+.projects-flex {
+  display: flex;
+  color: #AB929D;
+}
+.projects-flex button {
+  margin: 8px;
+  height: 50px;
+  width: 100px;
+  color: #EFE9E6;
+  background-color: #AB929D;
+  border-radius: 40px;
+}
+.projects-flex button:hover, button:active {
+  font-size: 18px;
+}
+.junco-contain {
+  height: 800px;
+  width: 550px;
+}
+.band-contain {
+  height: 800px;
+  width: 550px;
+}
+.plants-contain {
+  height: 800px;
+  width: 550px;
+}

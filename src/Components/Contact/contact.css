@@ -1,0 +1,18 @@
+.flower-contain {
+  margin: auto;
+  font-size: 22px;
+  height: 500px;
+  width: 1175px;
+}
+img {
+ border-radius: 40px;
+}
+.contact-contain {
+ margin: 50px;
+ font-size: 26px;
+ color: #AB929D;
+}
+.contact-contain a {
+  text-decoration: none;
+  color: #AB929D;
+}

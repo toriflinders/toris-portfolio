@@ -1,0 +1,24 @@
+.header-container {
+  float: left;
+  height: 200px;
+  width: 250px;
+  margin: 25px;
+  font-size: 20px;
+}
+.icon-nav-icon {
+  margin: 15px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+.nav-links {
+  margin: 15px;
+  font-size: 20px;
+  text-decoration: none;
+  color: #EFE9E6;
+}
+.nav-links:hover, .nav-links:active {
+  text-decoration: none;
+  font-size: 24px;
+  color: #AB929D;
+}
